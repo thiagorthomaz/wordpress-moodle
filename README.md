@@ -1,13 +1,14 @@
 # wordpress-moodle
 Integração do Woordpress e Moodle.
 
-Instalação: 
+#Instalação: 
 
 Baixe a biblioteca de senha: http://www.openwall.com/phpass/ 
 Colar biblioteca de senha na pasta "sua_instalacao_do_moodle/lib/" 
 Substituía os arquivos: auth.php e config.html ambos ficam no diretório: "sua_instalacao_do_moodle/auth/db/" 
 
-Configuração: 
+#Configuração: 
+
 No menu: Plugins>Autenticação>Gerenciar autenticação 
 Habilite a opção "Use um banco de dados externo". 
 Clique em configurações. 
